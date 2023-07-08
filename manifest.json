@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "South Africa's Largest Crypto Trading Community",
+  "description": "South Africa's Largest Social Gambling Community",
   "dir": "ltr",
   "display": "standalone",
-  "name": "MoonClub",
+  "name": "Slottery",
   "orientation": "any",
   "scope": "/",
-  "short_name": "MoonClub",
+  "short_name": "Slottery",
   "start_url": "/login",
   "theme_color": "#ffffff",
   "categories": ["finance", "education"],
@@ -46,14 +46,14 @@
             "type": "image/png"
         },
         {
-            "src": "https://moonclub.co.za/E490F7A2-C4DC-48D8-ACF8-5AC38C3E4188.png",
+            "src": "https://slottery.co.za/E490F7A2-C4DC-48D8-ACF8-5AC38C3E4188.png",
             "sizes": "512x512",
             "type": "image/png"
         }
   ],
   "shortcuts": [
 {
-"name": "Exchanges",
+"name": "Newsroom",
 "description": "Check out the latest market developments.",
 "src": "/exchanges"
 },
@@ -65,7 +65,7 @@
 },
 
 {
-"name": "Shop",
+"name": "Predictions",
 "description": "Check out the latest video tutorials.",
 "src": "/shop"
 }
